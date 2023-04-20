@@ -1,9 +1,23 @@
-# React TypeScript Starter Pack
+# React Todo App
 
-To use this template click `Use this template`
+React app for create, delete and update yor's todo's
 
-### Available Scripts
+# Demo
 
-`Deploy` - available to deploy your application to gh-pages
+Demo hosted  https://g0odvin.github.io/Todo-App/
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Features
+Create, delete, edit todos localy and with API
+Animation
+
+# Built with
+React Js, Typescript, Css, Sass, Bulma
+React Hooks : useState, useEffect, useRef, useContext
+REST API
+
+# Author
+https://www.linkedin.com/in/anton-novyk-50453a212/
+
+# Instructions
+First clone this repository.
+$ git clone https://github.com/ilyasbelaoud/react-todo-app.git

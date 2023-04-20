@@ -8,6 +8,23 @@ module.exports = {
     'react/prop-types': 0,
     'react/self-closing-comp': 0,
     'react/display-name': 0,
+    "jsx-a11y/label-has-associated-control": [
+      2,
+      {
+        "labelComponents": [
+          "FormLabel"
+        ],
+        "labelAttributes": [
+          "label"
+        ],
+        "controlComponents": [
+          "input"
+        ],
+        "depth": 1
+      }
+    ],
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": "warn",
 
     // JavaScript
     semi: 0,

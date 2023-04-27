@@ -20,7 +20,7 @@ https://www.linkedin.com/in/anton-novyk-50453a212/
 
 # Instructions
 * First clone this repository.
-* $ git clone hhttps://github.com/G0odvin/Todo-App.git
+* $ git clone https://github.com/G0odvin/Todo-App.git
 * Install dependencies. Make sure you already have nodejs & npm installed in your system.
 * $ npm install # or yarn
 * Run it

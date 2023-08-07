@@ -1,18 +1,18 @@
-# React Todo App
+# Task Trek
 
-React app for create, delete and update yor's todo's
+React application for creating, deleting, and update your's todo's
 
 # Demo
 
 Demo hosted  https://g0odvin.github.io/Todo-App/
 
 # Features
-* Create, delete, edit todos localy and with API
+* Create, delete, and edit todos locally and with API
 * Animation
 
 # Built with
-* React Js, Typescript, Css, Sass, Bulma
-* React Hooks : useState, useEffect, useRef, useContext
+* React Js, Typescript, CSS, Sass, Bulma
+* React Hooks: useState, useEffect, useRef, useContext
 * REST API
 
 # Author
